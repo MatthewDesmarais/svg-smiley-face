@@ -1,0 +1,21 @@
+.face{
+  fill: gold;
+}
+
+.mouth {
+  fill: none;
+  stroke: #000;
+  stroke-width: 6px:
+  stroke-linecap: round;
+}
+
+.right-eyebrow {
+  transfrom: rotate(80deg);
+  transform-origin: 100px 82px;
+  transition: all .5 linear;
+}
+
+.left-eyebrow {
+  transfrom: rotate(100deg);
+  transfrom-origin: 156px 82px;
+}
